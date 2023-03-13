@@ -17,7 +17,7 @@ Using this page you can seach gists of a github user.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/Sateesh2/gists.git
 ```
 
 Go to the project directory
